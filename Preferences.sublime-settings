@@ -1,0 +1,12 @@
+{
+	"color_scheme": "Packages/Theme - Spacegray/base16-ocean.dark.tmTheme",
+	"draw_minimap_border": true,
+	"font_face": "consolas",
+	"font_size": 13,
+	"ignored_packages":
+	[
+		"Codecs33",
+		"Vintage"
+	],
+	"theme": "Spacegray.sublime-theme"
+}
