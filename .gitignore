@@ -1,5 +1,9 @@
 test for sync
+<<<<<<< HEAD
 本地加一行
+=======
+远程加一行
+>>>>>>> origin/master
 Package Control.last-run
 Package Control.ca-list
 Package Control.ca-bundle
